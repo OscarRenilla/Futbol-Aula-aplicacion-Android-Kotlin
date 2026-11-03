@@ -43,7 +43,7 @@ La app ya trae la interfaz y la infraestructura (base de datos SQLite, sensores,
 - Dispositivo o emulador con **API 26+**
 - Versiones fijadas: AGP 8.7.3 · Kotlin 2.0.21 · Gradle 8.9 (wrapper incluido)
 
-## ▶Cómo ejecutarlo
+## Cómo ejecutarlo
 
 ```bash
 cd resuelto          # o cd original
