@@ -1,4 +1,4 @@
-# Fútbol Aula - Práctica final de Móviles (1.ª evaluación)
+# Fútbol Aula - Práctica final de Móviles 
 
 Aplicación Android en **Kotlin** para gestionar un catálogo de futbolistas, desarrollada como práctica final de la asignatura de Programación Multimedia y Dispositivos Móviles.
 
